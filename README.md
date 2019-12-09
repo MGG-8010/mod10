@@ -1,2 +1,1 @@
-# mod10
-Single cell demo on google colab
+# Module 10: Single cell demo on google colab
